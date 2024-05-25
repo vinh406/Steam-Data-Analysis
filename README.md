@@ -1,1 +1,2 @@
 # Steam Data Analysis
+This repository contains a collection of Jupyter notebooks for analyzing Steam game data. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization using libraries such as Pandas, Matplotlib, and Seaborn. The final CSV file is saved in the `data` folder.
